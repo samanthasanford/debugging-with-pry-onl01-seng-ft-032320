@@ -1,5 +1,5 @@
 def plus_two(num)
 	num + 2
 	num
-	binding.protect_from_forgery
+	binding.pry
 end
